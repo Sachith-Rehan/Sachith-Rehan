@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachith</h1>
-<h3 align="center">A passionate Fullstack from Sri Lanka</h3>
+<h3 align="center">A passionate Fullstack Developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachith-rehan&label=Profile%20views&color=0e75b6&style=flat" alt="sachith-rehan" /> </p>
 
