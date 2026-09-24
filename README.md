@@ -9,7 +9,7 @@
 
 ### 🌐 Connect with Me
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/msr-darshana-68a469350?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
 </a>
 
