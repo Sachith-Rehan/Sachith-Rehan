@@ -1,21 +1,38 @@
-<h1 align="center">Hi 👋, I'm Sachith</h1>
+<!-- ===================== HEADER ===================== -->
 
-<h3 align="center">Full-Stack Developer from Sri Lanka 🇱🇰</h3>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sachith%20Rehan%20Darshana&fontAlign=50&fontAlignY=40&color=gradient&fontSize=42&desc=Full-Stack%20Developer%20%7C%20Software%20Engineering%20Undergraduate&descAlignY=62&descSize=16"/>
 
-* 💻 Interested in **Full-Stack Development & Software Engineering**
-* 💬 Ask me about **Java, React, Node.js & MERN**
-* 📫 **[rehandarshana999@gmail.com](mailto:rehandarshana999@gmail.com)**
-
-### 🌐 Connect with Me
-
-<a href="https://www.linkedin.com/in/msr-darshana-68a469350?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Java+Developer;MERN+Stack+Developer;Building+Real-World+Software+Solutions;Always+Learning+New+Technologies" />
 </a>
 
-### 🛠️ Tech Stack
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,spring,mongodb,mysql,html,css,tailwind,git,docker,postman" />
-</p>
 
+<!-- ===================== ABOUT ===================== -->
+
+## 👨‍💻 About Me
+
+```javascript
+const sachith = {
+    role: "Full-Stack Developer",
+    location: "Sri Lanka 🇱🇰",
+
+    interests: [
+        "Software Engineering",
+        "Full-Stack Development",
+        "Backend Development",
+        "DevOps"
+    ],
+
+    currentlyWorkingWith: [
+        "React",
+        "Node.js",
+        "Java",
+        "Spring Boot"
+    ],
+
+    goal: "Build scalable software that solves real-world problems"
+};
