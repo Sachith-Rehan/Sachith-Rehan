@@ -138,112 +138,12 @@
 
 <br/>
 
-<!-- ========================= -->
-<!--      CONTRIBUTION SNAKE   -->
-<!-- ========================= -->
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sachith-rehan/sachith-rehan/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/sachith-rehan/sachith-rehan/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/sachith-rehan/sachith-rehan/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-</div>
 
 <br/>
 
-<!-- ========================= -->
-<!--       WHAT I DO           -->
-<!-- ========================= -->
 
-## 🚀 What I Do
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌐 Full-Stack Development
-
-Building modern and responsive web applications using technologies such as:
-
-- React
-- Node.js
-- Express
-- MongoDB
-- MySQL
-
-</td>
-
-<td width="50%" valign="top">
-
-### ☕ Software Development
-
-Developing maintainable software solutions with:
-
-- Java
-- Spring Boot
-- REST APIs
-- Object-Oriented Programming
-- Software Design Patterns
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ⚙️ Backend Development
-
-Interested in building reliable backend systems including:
-
-- RESTful APIs
-- Authentication
-- Database Design
-- Business Logic
-- API Integration
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🐳 DevOps
-
-Currently expanding my knowledge in:
-
-- Docker
-- Git & GitHub
-- CI/CD
-- Deployment
-- Cloud Technologies
-
-</td>
-
-</tr>
-</table>
-
-<br/>
 
 <!-- ========================= -->
 <!--       PROJECT BUTTON      -->
