@@ -1,54 +1,265 @@
 <!-- ========================= -->
-<!--        PROFILE HEADER     -->
+<!--        HEADER             -->
 <!-- ========================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:22c55e&height=220&section=header&text=Sachith%20Rehan%20Darshana&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Software%20Engineering%20Undergraduate&descAlignY=58&descSize=16" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:06B6D4&height=220&section=header&text=Sachith%20Rehan%20Darshana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Computer%20Science%20Undergraduate&descAlignY=58&descSize=17"/>
 
 <a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Java+Developer;MERN+Stack+Developer;Software+Engineering+Enthusiast;Building+Real-World+Software+Solutions"
-    alt="Typing SVG"
-  />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Java;MERN+Stack+Developer;Software+Engineering+Enthusiast;Building+Real-World+Software+Solutions" alt="Typing SVG"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sachith-rehan&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=sachith-rehan&label=Profile%20Views&color=0891b2&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
----
+<br/>
+
+<!-- ========================= -->
+<!--        ABOUT              -->
+<!-- ========================= -->
 
 ## 👨‍💻 About Me
 
+🎓 **Computer Science Undergraduate**
 
-const sachith = {
-    name: "Sachith Rehan Darshana",
-    role: "Full-Stack Developer",
-    location: "Sri Lanka 🇱🇰",
+💻 Passionate about **Full-Stack Development & Software Engineering**
 
-    education: "Computer Science Undergraduate",
+🚀 Interested in building **modern, scalable and real-world software solutions**
 
-    interests: [
-        "Software Engineering",
-        "Full-Stack Development",
-        "Backend Development",
-        "DevOps",
-        "System Design"
-    ],
+🌱 Currently improving my knowledge in **Backend Development, DevOps, System Design & Cloud Technologies**
 
-    technologies: [
-        "Java",
-        "JavaScript",
-        "React",
-        "Node.js",
-        "Express",
-        "Spring Boot",
-        "MongoDB",
-        "MySQL"
-    ],
+⚙️ Working with **Java, JavaScript, React, Node.js, Express & Spring Boot**
 
-    goal: "Build scalable software solutions for real-world problems"
-};
+🧠 Exploring **Software Architecture, Docker and CI/CD**
+
+💬 Ask me about **Java, React, Node.js, Express & MERN**
+
+📫 Reach me at **[rehandarshana999@gmail.com](mailto:rehandarshana999@gmail.com)**
+
+<br/>
+
+<!-- ========================= -->
+<!--        CONNECT            -->
+<!-- ========================= -->
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/msr-darshana-68a469350" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rehandarshana999@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sachith-rehan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<br/>
+
+<!-- ========================= -->
+<!--        TECH STACK         -->
+<!-- ========================= -->
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,cs,css,react,tailwind,nodejs,spring,mongodb,mysql,git,docker,postman&perline=20" />
+</p>
+
+<br/>
+
+<!-- ========================= -->
+<!--        CURRENT FOCUS      -->
+<!-- ========================= -->
+
+## 🎯 Current Focus
+
+<p>
+
+<img src="https://img.shields.io/badge/Full--Stack%20Development-06B6D4?style=for-the-badge&logo=react&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Backend%20Development-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Software%20Engineering-2563EB?style=for-the-badge&logo=codecrafters&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/System%20Design-7C3AED?style=for-the-badge"/>
+
+</p>
+
+<br/>
+
+<!-- ========================= -->
+<!--        GITHUB STATS       -->
+<!-- ========================= -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sachith-rehan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4"/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachith-rehan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="60%" src="https://streak-stats.demolab.com?user=sachith-rehan&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+<br/>
+
+<!-- ========================= -->
+<!--     ACTIVITY GRAPH        -->
+<!-- ========================= -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sachith-rehan&bg_color=0D1117&color=06B6D4&line=22D3EE&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<!-- ========================= -->
+<!--      CONTRIBUTION SNAKE   -->
+<!-- ========================= -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sachith-rehan/sachith-rehan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sachith-rehan/sachith-rehan/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/sachith-rehan/sachith-rehan/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ========================= -->
+<!--       WHAT I DO           -->
+<!-- ========================= -->
+
+## 🚀 What I Do
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌐 Full-Stack Development
+
+Building modern and responsive web applications using technologies such as:
+
+- React
+- Node.js
+- Express
+- MongoDB
+- MySQL
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☕ Software Development
+
+Developing maintainable software solutions with:
+
+- Java
+- Spring Boot
+- REST APIs
+- Object-Oriented Programming
+- Software Design Patterns
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ⚙️ Backend Development
+
+Interested in building reliable backend systems including:
+
+- RESTful APIs
+- Authentication
+- Database Design
+- Business Logic
+- API Integration
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🐳 DevOps
+
+Currently expanding my knowledge in:
+
+- Docker
+- Git & GitHub
+- CI/CD
+- Deployment
+- Cloud Technologies
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ========================= -->
+<!--       PROJECT BUTTON      -->
+<!-- ========================= -->
+
+## 🚀 Explore My Projects
+
+<div align="center">
+
+<a href="https://github.com/sachith-rehan?tab=repositories">
+<img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ========================= -->
+<!--        FOOTER             -->
+<!-- ========================= -->
+
+<div align="center">
+
+### 💡 Turning ideas into software solutions.
+
+<br/>
+
+<b>Code • Build • Learn • Improve</b>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:06B6D4&height=120&section=footer"/>
+
+</div>
