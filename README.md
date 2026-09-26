@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-```javascript
+
 const sachith = {
     name: "Sachith Rehan Darshana",
     role: "Full-Stack Developer",
