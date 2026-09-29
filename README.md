@@ -10,7 +10,7 @@ Full-Stack Developer from Sri Lanka 🇱🇰
 - 💻 Full-Stack Developer
 - 🌱 Learning Software Engineering & DevOps
 - 💬 Ask me about Java, React, Node.js & MERN
-- 📫 rehandarshana999@gmail.com
+- 📫 **[rehandarshana999@gmail.com](mailto:rehandarshana999@gmail.com)**
 
 ## 🌐 Connect With Me
 
@@ -20,14 +20,28 @@ Full-Stack Developer from Sri Lanka 🇱🇰
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,spring,mongodb,mysql,html,css,tailwind,git,docker,postman"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,spring,mongodb,mysql,html,css,tailwind,git,docker,postman&perline=14"/>
 </p>
 
 ## 🐍 Contributions
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sachith-rehan/sachith-rehan/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Sachith-Rehan/Sachith-Rehan/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Sachith-Rehan/Sachith-Rehan/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Sachith-Rehan/Sachith-Rehan/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="Contribution Snake"
+  />
+</picture>
 
 </div>
