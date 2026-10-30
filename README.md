@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachith</h1>
 
 <h3 align="center">
-Full-Stack Developer from Sri Lanka 🇱🇰
+Full-Stack Developer from Sri Lanka.
 </h3>
 
 ## 👨‍💻 About Me
